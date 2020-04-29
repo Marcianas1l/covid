@@ -1,1 +1,1 @@
-https://marcianas1l.github.io/zoop-covid
+https://marcianas1l.github.io/covid
