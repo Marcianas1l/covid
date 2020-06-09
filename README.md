@@ -1,4 +1,4 @@
-# Projeto em desenvolvimento utilizando HTML5, CSS3
+# Landing Page desenvolvida utilizando HTML5, CSS3
 
 ![Minha página](covid.gif)
 https://marcianas1l.github.io/covid
